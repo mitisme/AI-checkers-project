@@ -1,4 +1,3 @@
-@Author: Michael Tretter
 
 This is a quick explanation/walkthrough of this Project
 
