@@ -1,10 +1,6 @@
 package edu.iastate.cs472.proj2;
 
-/**
- * 
- * @author Michael Tretter
- *
- */
+
 
 /**
  * This class is to be extended by the classes AlphaBetaSearch and MonteCarloTreeSearch.
