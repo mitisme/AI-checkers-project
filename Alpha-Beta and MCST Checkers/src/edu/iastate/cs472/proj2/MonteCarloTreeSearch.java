@@ -2,9 +2,6 @@ package edu.iastate.cs472.proj2;
 import java.util.Random;
 
 /**
- * 
- * @author Michael Tretter
- *
  */
 
 /**
